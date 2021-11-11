@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FontTest", "FontTest\FontTest.vcxproj", "{89722BB1-89CE-490D-87C7-C5F571142A02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89722BB1-89CE-490D-87C7-C5F571142A02}.Debug|Win32.ActiveCfg = Debug|Win32
+		{89722BB1-89CE-490D-87C7-C5F571142A02}.Debug|Win32.Build.0 = Debug|Win32
+		{89722BB1-89CE-490D-87C7-C5F571142A02}.Release|Win32.ActiveCfg = Release|Win32
+		{89722BB1-89CE-490D-87C7-C5F571142A02}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
